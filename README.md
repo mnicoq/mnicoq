@@ -1,5 +1,9 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Groovy + Grails
 
+<a href="https://github.com/mnicoq">
+  <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=mnicoq&count_private=true&show_icons=true&theme=dark&line_height=27" align="right" height="170" /></a>
+  
 <!--
 **mnicoq/mnicoq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
