@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Groovy + Grails
+- 🔭 I’m currently working on Ruby On Rails projects! Deepening my understanding.
+- 🌱 I'm starting to learn Elixir and its trickery.
 
 <a href="https://github.com/mnicoq">
   <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=mnicoq&count_private=true&show_icons=true&theme=dark&line_height=27" align="right" height="170" /></a>
